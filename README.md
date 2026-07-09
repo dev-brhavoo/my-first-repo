@@ -1,2 +1,3 @@
 # my-first-repo
-My first Git repository
+Hello world! 
+My first Git repository. 
